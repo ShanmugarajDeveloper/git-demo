@@ -1,1 +1,4 @@
-this is a demo learning sessiong
+
+tnbi is sample
+\thi sis data
+this is logicg
